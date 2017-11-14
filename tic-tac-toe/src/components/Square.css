@@ -1,0 +1,12 @@
+button{
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	left: 0;
+	top: 0;
+	font-size: 40px;
+	font-weight: bold;
+	color: orange;
+	vertical-align: top;
+
+}
